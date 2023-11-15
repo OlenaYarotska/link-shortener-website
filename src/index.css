@@ -102,6 +102,10 @@ code {
     color: rgb(19, 24, 26);
 } 
 @media(max-width: 700px) {
+  .form{
+    display: flex;
+    flex-direction: column;
+  }
   .heading {
       margin-bottom: 20px;
       font-size: 25px;
@@ -116,7 +120,7 @@ code {
   .button {
     font-size: 15px;
     box-sizing: border-box;
-    height: 54px;
+    height: 45px;
     width: 200px;
     padding: 12px 25px;
     border-radius: 8px;

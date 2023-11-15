@@ -5,7 +5,7 @@ import copiedicon from '../icons/copied-icon.png';
 import { token } from "api/api-token";
 
 const ShortLinkForm = ({ value, onSubmit, onChange }) => (
-    <form method='post' action='' onSubmit={onSubmit} >
+    <form method='post' action='' onSubmit={onSubmit} className="form" >
           <input
             type="text"
             placeholder="Paste your URL here"
