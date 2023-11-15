@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/link-shortener-website/static/css/main.7b50cfd1.css",
-    "main.js": "/link-shortener-website/static/js/main.d84a333d.js",
+    "main.css": "/link-shortener-website/static/css/main.442ef17c.css",
+    "main.js": "/link-shortener-website/static/js/main.79d84bb2.js",
     "index.html": "/link-shortener-website/index.html",
-    "main.7b50cfd1.css.map": "/link-shortener-website/static/css/main.7b50cfd1.css.map",
-    "main.d84a333d.js.map": "/link-shortener-website/static/js/main.d84a333d.js.map"
+    "main.442ef17c.css.map": "/link-shortener-website/static/css/main.442ef17c.css.map",
+    "main.79d84bb2.js.map": "/link-shortener-website/static/js/main.79d84bb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b50cfd1.css",
-    "static/js/main.d84a333d.js"
+    "static/css/main.442ef17c.css",
+    "static/js/main.79d84bb2.js"
   ]
 }
